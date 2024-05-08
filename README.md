@@ -1,7 +1,7 @@
 ## Welcome to 30 Days of Code on HackerRank
 
 Welcome to my repository for the 30 Days of Code challenges on HackerRank! In this repository, you'll find solutions to the challenges along with some helpful tips and tricks.
-
+PS - I have used C++ as my primary language.
 # About 30 Days of Code
 
 30 Days of Code is a series of daily coding challenges hosted by HackerRank. It's designed to help programmers improve their coding skills and algorithmic thinking by solving a new problem every day for 30 days.
